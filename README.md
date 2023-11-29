@@ -1,5 +1,5 @@
 # Ex. No. 7 - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+### DATE: 25-11-2023
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -39,14 +39,76 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+# CAD FILE PREPARATION :
 
-## Output:
+![WhatsApp Image 2023-11-29 at 15 39 29_993a6365](https://github.com/Thrishendra/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145742464/3edf2a70-91ba-4f08-8257-873ed8e0dde7)
+# strong base is suggested :
+Having a strong base or foundation is essential in the preprocessing stage for 3D printing because it helps ensure the stability and integrity of the printed object throughout the printing process
 
-### Name:
-### Register Number:
+# round corners should be made :
+Sharp corners can act as stress concentration points, making the printed object more susceptible to failure or breakage. By rounding the corners, you distribute the stress more evenly across the object, reducing the likelihood of structural issues.
+
+# wall thickness should be appropraite :
+By ensuring an appropriate wall thickness during preprocessing, you can achieve a balance between structural integrity, printability, and material considerations. This leads to a successful 3D print with the desired strength, accuracy, and functionality.
+
+# CONVERSION OF STL:
+
+![WhatsApp Image 2023-11-29 at 15 39 29_cd06528b](https://github.com/Thrishendra/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145742464/3536a714-3bae-4c2b-8318-fd8951e98d70)
+
+# coding of stl files :
+coding for STL file preprocessing empowers you with greater control, efficiency, and flexibility in preparing 3D models for printing. It enables automation, customization, and scalability while ensuring consistency and integration within your 3D printing workflow.
+
+# ORIENTAION:
+
+![WhatsApp Image 2023-11-29 at 15 39 29_a565e5a0](https://github.com/Thrishendra/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145742464/5d1ac67e-0200-454f-a7ee-6b2b47669e70)
+
+# printing verticlly upward and printing horizontolly in 3d printing :
+Vertical surfaces generally have better surface finish compared to horizontal surfaces, as the layers are stacked vertically, reducing the visibility of individual layer lines.
+
+# SUPPORT STRUCTURE:
+
+![WhatsApp Image 2023-11-29 at 15 39 29_22d9dafb](https://github.com/Thrishendra/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145742464/2a5e0bbd-2831-4527-a2d2-fa6d3ab3607a)
+
+# part with support :
+A "part with support" in the preprocessing stage of 3D printing refers to a 3D model that requires the addition of support structures to ensure successful and accurate printing of certain features
+
+# part without support :
+A "part without support" in the preprocessing stage of 3D printing refers to a 3D model that does not require the addition of support structures during the printing process. In other words, the design of the part is such that all features can be printed without the need for additional support material.
+
+# SLICING:
+
+![WhatsApp Image 2023-11-29 at 15 39 29_eafb7151](https://github.com/Thrishendra/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145742464/653ff1d7-1ce4-4bd6-a6db-778714235fbc)
+
+# Uniform slicing :
+also known as uniform layer height or uniform layer thickness, refers to a preprocessing technique in 3D printing where the model is sliced into layers of consistent thickness throughout the entire object
+
+# Adaptive slicing :
+It is a preprocessing technique in 3D printing where the layer thickness varies throughout the object based on the geometry and level of detail required. Instead of using a uniform layer thickness, adaptive slicing adjusts the layer thickness dynamically to optimize the print quality and printing time
+
+# Curved layer slicing :
+It is also known as adaptive layer height or variable layer height, is a preprocessing technique in 3D printing where the layer thickness varies along curved or sloping surfaces of a 3D model.
+
+# PATH PLANNING:
+
+![WhatsApp Image 2023-11-29 at 15 39 29_e888c394](https://github.com/Thrishendra/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145742464/67752f5a-9ae6-43b7-b563-fdc2262ee33a)
+
+# Fractional path planning :
+It is also known as fractional layering or non-integer layer heights, is a technique used in 3D printing to achieve finer resolution and improve the surface quality of printed objects
+
+# Zigzag path planning :
+It is a technique used in 3D printing to optimize the movement of the print head or extruder during the printing process. Instead of following a straight path for each layer, zigzag path planning involves printing each layer in a zigzag pattern, alternating the direction of movement.
+
+# Contour offset path :
+It is lso known as offsetting or offsetting contours, is a preprocessing technique used in 3D printing to create multiple concentric copies of a 2D or 3D shape with increasing or decreasing dimensions
+
+# Grid path planning :
+It is also known as grid infill or grid pattern, is a technique used in 3D printing to fill the interior of a 3D model with a grid-like pattern
+
+## OUTPUT:
+![WhatsApp Image 2023-11-29 at 16 20 13_e4d87b02](https://github.com/Thrishendra/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145742464/d67cf10a-2d67-49e2-82f9-aa426a1380c5)
+
+### Name:T.Thrishendra
+### Register Number:23003501
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
